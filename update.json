@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.0",
-  "pub_date": "2026-06-19T07:12:03.0958550Z",
-  "notes": "Release v0.1.0",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Prajwalnazre/Maya-Releases/releases/download/v0.1.0/maya_0.1.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1p1VHJNN0dBbG1aR1pLSkcxMUJETVJYWGp0T01mMnMxS29Wd2FOaUdRajdDNmh5MlRqeS9NakNNTmQ1V1JSQ3c2dkFDSTArd242MWU5OFkvK2NGdFc4a3UyYTA5L2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODUzMTEzCWZpbGU6bWF5YV8wLjEuMF94NjQtc2V0dXAuZXhlCkZvOHZkeFhRNWd5Nkl2d2ZwSE8reURHL0FlUDh1RmlNT1U1ajZna2ZORlZ5S3Jhd2ZJOE8xYkUwN1dGendIbU40bU1FOURQTkV1TnZKenN2VkpvQkJRPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1p1VHJNN0dBbGczVFYycGNBamhPSVJQZE83VHV0L1EyUVJLRm9TR3V2MWE3MDh5VVBlSnN3SHBGWEpWNkdoT1Zmams0RXZab2RqSEdYYmlOOWMyRTBFckdTSUhQVkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODU4Mjk0CWZpbGU6bWF5YV8wLjEuMF94NjQtc2V0dXAuZXhlCndUemw3b2RVOXhYNktvcjRyMEx5U0tRcU5BVDgwVk5WQ01uMTFjQ1IvVUdpaXIyY2Q3QXJmN3d5NWdCdEFvR2NOUzVVTW5Jb3NlRkppVFlsZXFheENRPT0K",
+      "url": "https://github.com/Prajwalnazre/Maya-Releases/releases/download/v0.1.0/maya_0.1.0_x64-setup.exe"
     }
-  }
+  },
+  "pub_date": "2026-06-19T08:38:25.3993314Z",
+  "version": "v0.1.0",
+  "notes": "Release v0.1.0"
 }
